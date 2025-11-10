@@ -1,0 +1,1 @@
+html,body{margin:0;padding:0;overflow:hidden}canvas{display:block}#infoBox{position:absolute;top:12px;left:12px;background:#ffffffe6;color:#0074d9;font-size:1.2em;padding:8px 16px;border-radius:6px;box-shadow:0 2px 8px #00000012;z-index:10;pointer-events:none}
