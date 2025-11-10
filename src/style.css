@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* background: #f4f4f4; */
+}
+
+canvas {
+  display: block;
+}
+
+#infoBox {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: rgba(255,255,255,0.9);
+  color: #0074D9;
+  font-size: 1.2em;
+  padding: 8px 16px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  z-index: 10;
+  pointer-events: none;
+}

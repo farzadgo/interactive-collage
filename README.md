@@ -1,0 +1,1 @@
+Quick testing code for implementing interactive [canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)-based collage map using [pixi.js](https://github.com/pixijs/pixijs)
